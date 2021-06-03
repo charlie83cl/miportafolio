@@ -1,0 +1,71 @@
+.container{
+    background-color: blanchedalmond;
+    display: inline-block;
+    min-height: 150px;
+    margin: 0px auto;
+    width: 990px;
+    }
+.header{
+    width: 990px;
+    height: 100px;
+    display: inline-block;
+    margin: 0px auto;
+    vertical-align: top;
+}
+.titulo1{
+    width: 490px;
+    height: 90px;
+    display: inline-block;
+    margin: 0px auto;
+}
+.titulo2{
+    width: 490px;
+    height: 90px;
+    display: inline-block;
+    margin: 0px auto;
+}
+.photo{
+    width: 450px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+}    
+.about{
+    width: 450px;
+    height: 200px;
+    display: inline-block;
+    margin: 0px auto;
+    vertical-align: top;
+    margin: 20px;
+}
+.articulo{
+    width: 265px;
+    height: 300px;
+    display: inline-block;
+    margin: 30px;
+    vertical-align: top;
+}
+.foto1{
+    width: 450px;
+    height: 200px;
+}
+.articulo1{
+    width: 265px;
+    height: 120px;
+
+}
+.lista1{
+    width: 15x;
+    height: 15px;
+    padding: 4px;
+    margin-right: 5px;
+    margin-left: 5px;
+    vertical-align: top;
+    display: inline-block;
+    list-style-type: none;
+}
+.centrador{
+    text-align: center;
+    align-items: center;
+}
